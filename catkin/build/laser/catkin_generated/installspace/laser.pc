@@ -1,0 +1,8 @@
+prefix=/home/longtan/catkin/install
+
+Name: laser
+Description: Description of laser
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/longtan/catkin/install/lib 
+Requires: 

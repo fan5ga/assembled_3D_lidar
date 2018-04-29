@@ -1,0 +1,8 @@
+prefix=/home/longtan/catkin/devel
+
+Name: laser_to_pd
+Description: Description of laser_to_pd
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/longtan/catkin/devel/lib 
+Requires: 

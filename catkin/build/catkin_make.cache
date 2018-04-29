@@ -1,0 +1,2 @@
+laser:laser_to_pd:rov_sensor
+-DCATKIN_DEVEL_PREFIX=/home/longtan/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/longtan/catkin/install -G Unix Makefiles

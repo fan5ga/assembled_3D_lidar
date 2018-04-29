@@ -1,0 +1,8 @@
+prefix=/home/longtan/catkin/devel
+
+Name: rov_sensor
+Description: Description of rov_sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/longtan/catkin/devel/lib 
+Requires: 
