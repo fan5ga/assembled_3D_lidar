@@ -10,7 +10,7 @@ Folder catkin is  workspace of ROS, source code: catkin/src
 - catkin/src/sketch_jan04b/sketch_jan04b.ino: Arduino motor control    
 
 
-** Scanning ranges: **
+**Scanning ranges:**
 - Pitch:0-90degree(1 degree interval)
 - Yaw: -90-90degree(1 degree interval )
 
