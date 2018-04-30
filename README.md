@@ -7,7 +7,9 @@ Folder catkin is  workspace of ROS, source code: catkin/src
 - catkin/src/laser/laser_node.cpp: Laser node, Laser dat publisher    
 - catkin/src/laser/laser_pd_merge_node.cpp laser data merge node    
 - catkin/src/laser_to_pd/src/laser_to_pd_node.cpp: Point cloud registration.  
-- catkin/src/sketch_jan04b/sketch_jan04b.ino: Arduino motor control   
+- catkin/src/sketch_jan04b/sketch_jan04b.ino: Arduino motor control    
+
+
 ** Scanning ranges: **
 - Pitch:0-90degree(1 degree interval)
 - Yaw: -90-90degree(1 degree interval )
