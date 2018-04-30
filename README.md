@@ -1,6 +1,6 @@
 # Assembled 3d Lidar
 This is a 3D indoor scanner that two servo motors are used to rotate and tilt the laser rangefinder. Arduino send each scan data to pc, and all the scans are megered in Point Cloud.    
-![3D LIDAR](https://github.com/FAN5GA/assembled_3D_lidar/raw/master/lidar.jpg)    
+![3D LIDAR](https://github.com/fan5ga/assembled_3D_lidar/blob/master/Lidar.jpg)    
 Folder catkin is  workspace of ROS, source code: catkin/src
 - catkin/src/laser/laser_node.cpp: Laser node, Laser dat publisher    
 - catkin/src/laser/laser_pd_merge_node.cpp laser data merge node    
@@ -13,12 +13,12 @@ Folder catkin is  workspace of ROS, source code: catkin/src
 - ROS Kinetic
 - [rosserial](http://wiki.ros.org/rosserial)
 
-## Useage
+
 ### Compile
 - $ cd ~/catkin
 - $ catkin_make
 
-### Run
+### Useage
 - $ source ~/catkin/devel/setup.bash
 - $ roscore
 - $ rosrun tf static_transform_publisher /world /map 0 0 0 0 0 0 0 100
